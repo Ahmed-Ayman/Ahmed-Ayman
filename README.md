@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Ayman)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HelloWorld!&height=100&section=header"/>
 </p>
@@ -42,5 +41,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Ayman)](https://github.com/ahmed-ayman/github-readme-stats)
+
 
 <!-- https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/main/README.md  -->
