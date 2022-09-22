@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Ahmed-Ayman/Ahmed-Ayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,6 +40,10 @@ Here are some ideas to get you started:
   <img src= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </p>
 
+- 🌱 I’m currently learning DevOps program by Simplilearn.
+- 💬 Ask me about Drupal, Sports and Egypt.
+- 📫 How to reach me: Check my contacts above.
+- ⚡ Fun fact: I'm an Uber driver in my free time.
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Ayman)](https://github.com/ahmed-ayman/github-readme-stats)
 
