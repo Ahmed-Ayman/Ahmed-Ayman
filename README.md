@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DevOps program by Simplilearn.
 - 💬 Ask me about Drupal, Sports and Egypt.
 - 📫 How to reach me: Check my contacts above.
-- ⚡ Fun fact: I'm an Uber driver in my free time.
+- ⚡ Fun fact: I'm an Uber driver in my free time, I like to drive strangers and have random chats!
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Ayman)](https://github.com/ahmed-ayman/github-readme-stats)
 
