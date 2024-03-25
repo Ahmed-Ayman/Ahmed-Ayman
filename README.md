@@ -40,7 +40,6 @@ Here are some ideas to get you started:
   <img src= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </p>
 
-- 🌱 I’m currently learning DevOps program by Simplilearn.
 - 💬 Ask me about Drupal, Sports and Egypt.
 - 📫 How to reach me: Check my contacts above.
 - ⚡ Fun fact: I do travel and do outdoor activities a lot, sometimes I do work from roller coasters or aqua parks.
