@@ -39,12 +39,13 @@ Here are some ideas to get you started:
 <p align="center">
   <img src= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Ayman)](https://github.com/ahmed-ayman/github-readme-stats)
+
 --> 
 
 - 💬 Ask me about Drupal, Sports and Egypt.
 - 📫 How to reach me: Check my contacts above.
 ---
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Ayman)](https://github.com/ahmed-ayman/github-readme-stats)
 
 
 <!-- https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/main/README.md  -->
