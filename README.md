@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Drupal, Sports and Egypt.
 - 📫 How to reach me: Check my contacts above.
-- ⚡ Fun fact: I do travel and do outdoor activities a lot, sometimes I do work from roller coasters or aqua parks.
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Ayman)](https://github.com/ahmed-ayman/github-readme-stats)
 
